@@ -47,3 +47,8 @@ footer { margin-top: 48px; color: var(--muted); font-size: 13px; }
 .hero p { color: var(--muted); font-size: 18px; margin: 4px 0 20px; }
 .links { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
 .links a { padding: 10px 18px; border-radius: 10px; background: var(--card); text-decoration: none; color: var(--fg); font-weight: 600; }
+.store { margin: 0 0 20px; }
+.store .store-badge { display: inline-block; line-height: 0; }
+.hero .store img, .store img { width: auto; height: 48px; }
+.store .meta { margin: 8px 0 0; font-size: 13px; }
+.store-en { text-align: center; margin-top: 16px; }
